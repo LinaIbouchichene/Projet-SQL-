@@ -30,5 +30,3 @@ Ce projet permet de développer les compétences suivantes :
 - Analyse de données avec SQL
 
 
-
-## 📁 Structure du projet
